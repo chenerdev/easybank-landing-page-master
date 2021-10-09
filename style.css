@@ -22,7 +22,7 @@ body {
   width: 100%;
   overflow-x: hidden;
   font-family: var(--font);
-  font-weight: normal;
+  font-weight: 100;
 }
 
 header {
@@ -156,9 +156,8 @@ button {
   .section2-text h1,
   .section2-text p {
     text-align: left;
-    /* margin: 0 auto 0 110px; */
     width: 60vw;
-    padding: 0;
+    padding: 10px 0;
   }
 
   .section2-icons {
